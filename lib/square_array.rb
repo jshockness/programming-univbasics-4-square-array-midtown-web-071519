@@ -1,4 +1,6 @@
 def square_array(array)
-  squared
+  squared = []
+  count = 0 
+  while
   # your code here
 end
